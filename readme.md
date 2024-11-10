@@ -5,3 +5,7 @@ I noticed the lab instructions didn't fully replicate the mockup like the color 
 [Demo](https://jordles.github.io/Per-Scholas-Lab-308A.1.2/)
 
 ![](https://raw.githubusercontent.com/jordles/Per-Scholas-Lab-308A.1.2/refs/heads/main/images/comparison.png)
+
+
+## Attributions
+[Font Identifier](https://www.fontsquirrel.com/matcherator)

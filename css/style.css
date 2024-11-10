@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Chantilly';
+  src: url('ChantillyLight.woff2') format('woff2'),
+      url('ChantillyLight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
 html, body{
   margin: 0;
   padding: 0;
@@ -24,7 +33,7 @@ body{
   padding: 1rem 2rem;
 } */
 .title{
-  font-family: "Chantilly Light", 'Times New Roman', Times, serif;
+  font-family: "Chantilly", sans-serif;
   color: #DF4339;
   font-size: 9.5em;
   font-weight:100;
