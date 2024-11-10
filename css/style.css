@@ -4,8 +4,8 @@
 
 @font-face {
   font-family: 'Chantilly';
-  src: url('./css/fonts/ChantillyLight.woff2') format('woff2'),
-      url('./css/fonts/ChantillyLight.woff') format('woff');
+  src: url('./fonts/ChantillyLight.woff2') format('woff2'),
+      url('./fonts/ChantillyLight.woff') format('woff');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
