@@ -16,6 +16,7 @@ body{
   max-width: 1561px;
   padding: 110px;
   padding-left: 86px;
+  padding-bottom: 0;
   font-family: "Nunito Sans", sans-serif;
   border-left: 11px solid lightgray
 }
@@ -47,12 +48,15 @@ nav ul{
   padding:0;
   justify-content: space-between;
 }
-header > nav ul{
+nav ul a{
+  text-decoration: none;
+}
+header > nav ul a{
   font-size: 2.5em;
   color: #808080;
 }
 
-footer > nav ul{
+footer > nav ul a{
   text-decoration: none;
   color: #DF4339;
   font-size: 2.2em;
@@ -60,7 +64,7 @@ footer > nav ul{
 
 
 header li{
-  border-bottom: 5px solid #D3D3D3;
+  border-bottom: 4px solid #D3D3D3;
 }
 
 article{
@@ -120,5 +124,6 @@ date{
 
 
 footer > span{
-  color: lightgray;
+  font-size: 2em;
+  color: #808080;
 }
